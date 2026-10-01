@@ -1,0 +1,15 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'local.douyin.clean'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'local.douyin.clean'
+        minSdk 29
+        targetSdk 34
+        versionCode 5
+        versionName '0.3.2'
+    }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+}
+dependencies { compileOnly files('libs/xposed-api-82.jar') }
+

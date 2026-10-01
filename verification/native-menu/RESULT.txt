@@ -1,0 +1,3 @@
+Android 12 Instrumentation: PASS: 36 checks (24 menu behavior, 12 local GIF export/path checks).
+Exports preserve exact bytes and return actual absolute output directory.
+Temporary images and test app removed. Does not certify actual host CDN or HEIF animation playback.

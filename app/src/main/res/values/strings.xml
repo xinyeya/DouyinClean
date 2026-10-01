@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">净音</string>
+    <string name="module_description">抖音极速版 40.5.0 的本地界面精简与表情保存；不含检测绕过。</string>
+    <string-array name="scope"><item>com.ss.android.ugc.aweme.lite</item></string-array>
+</resources>
